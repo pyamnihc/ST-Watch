@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+167 true G:/hdl_things/ST_Watch/ST_Watch.srcs/sources_1/new/st_regs.v
